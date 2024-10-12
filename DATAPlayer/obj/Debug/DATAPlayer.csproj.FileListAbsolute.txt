@@ -1,0 +1,6 @@
+D:\Project\WinForm\QTDL_Project\DATAPlayer\bin\Debug\DATAPlayer.dll
+D:\Project\WinForm\QTDL_Project\DATAPlayer\bin\Debug\DATAPlayer.pdb
+D:\Project\WinForm\QTDL_Project\DATAPlayer\obj\Debug\DATAPlayer.csproj.AssemblyReference.cache
+D:\Project\WinForm\QTDL_Project\DATAPlayer\obj\Debug\DATAPlayer.csproj.CoreCompileInputs.cache
+D:\Project\WinForm\QTDL_Project\DATAPlayer\obj\Debug\DATAPlayer.dll
+D:\Project\WinForm\QTDL_Project\DATAPlayer\obj\Debug\DATAPlayer.pdb

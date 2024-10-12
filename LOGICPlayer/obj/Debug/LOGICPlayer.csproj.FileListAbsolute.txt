@@ -1,0 +1,9 @@
+D:\Project\WinForm\QTDL_Project\LOGICPlayer\bin\Debug\LOGICPlayer.dll
+D:\Project\WinForm\QTDL_Project\LOGICPlayer\bin\Debug\LOGICPlayer.pdb
+D:\Project\WinForm\QTDL_Project\LOGICPlayer\bin\Debug\DATAPlayer.dll
+D:\Project\WinForm\QTDL_Project\LOGICPlayer\bin\Debug\DATAPlayer.pdb
+D:\Project\WinForm\QTDL_Project\LOGICPlayer\obj\Debug\LOGICPlayer.csproj.AssemblyReference.cache
+D:\Project\WinForm\QTDL_Project\LOGICPlayer\obj\Debug\LOGICPlayer.csproj.CoreCompileInputs.cache
+D:\Project\WinForm\QTDL_Project\LOGICPlayer\obj\Debug\LOGICPla.1E6DCFD4.Up2Date
+D:\Project\WinForm\QTDL_Project\LOGICPlayer\obj\Debug\LOGICPlayer.dll
+D:\Project\WinForm\QTDL_Project\LOGICPlayer\obj\Debug\LOGICPlayer.pdb
