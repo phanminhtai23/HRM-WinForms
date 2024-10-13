@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace FRONTENDPlayer
 {
@@ -45,10 +46,15 @@ namespace FRONTENDPlayer
                                            MessageBoxIcon.Question);
 
             // Nếu người dùng chọn "No", hủy việc đóng form
-            if (result == DialogResult.No)
+            if (result == DialogResult.Yes)
             {
-                e.Cancel = true; // Hủy hành động đóng
+                System.Windows.Forms.Application.Exit(); // Sử dụng không gian tên chính xác
+            }
+            else
+            {
+                e.Cancel = true; // Hủy việc đóng form
             }
         }
+
     }
 }
